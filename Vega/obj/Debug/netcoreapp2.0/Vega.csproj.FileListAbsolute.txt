@@ -1,0 +1,11 @@
+/Users/a516089/Documents/Skills/ASP.NetCore_Angular2/Vega/bin/Debug/netcoreapp2.0/Vega.deps.json
+/Users/a516089/Documents/Skills/ASP.NetCore_Angular2/Vega/bin/Debug/netcoreapp2.0/Vega.runtimeconfig.json
+/Users/a516089/Documents/Skills/ASP.NetCore_Angular2/Vega/bin/Debug/netcoreapp2.0/Vega.runtimeconfig.dev.json
+/Users/a516089/Documents/Skills/ASP.NetCore_Angular2/Vega/bin/Debug/netcoreapp2.0/Vega.dll
+/Users/a516089/Documents/Skills/ASP.NetCore_Angular2/Vega/bin/Debug/netcoreapp2.0/Vega.pdb
+/Users/a516089/Documents/Skills/ASP.NetCore_Angular2/Vega/obj/Debug/netcoreapp2.0/Vega.csproj.CoreCompileInputs.cache
+/Users/a516089/Documents/Skills/ASP.NetCore_Angular2/Vega/obj/Debug/netcoreapp2.0/Vega.AssemblyInfoInputs.cache
+/Users/a516089/Documents/Skills/ASP.NetCore_Angular2/Vega/obj/Debug/netcoreapp2.0/Vega.AssemblyInfo.cs
+/Users/a516089/Documents/Skills/ASP.NetCore_Angular2/Vega/obj/Debug/netcoreapp2.0/Vega.dll
+/Users/a516089/Documents/Skills/ASP.NetCore_Angular2/Vega/obj/Debug/netcoreapp2.0/Vega.pdb
+/Users/a516089/Documents/Skills/ASP.NetCore_Angular2/Vega/obj/Debug/netcoreapp2.0/UserSecretsAssemblyInfo.cs
